@@ -1,2 +1,2 @@
 cd release
-cp -r * /home/zhuowei/build/Ninja-ReleaseAssert+stdlib-DebugAssert/swift-linux-x86_64/
+cp -r * ~/GitHub/apple/build/Ninja-ReleaseAssert/swift-linux-x86_64/
